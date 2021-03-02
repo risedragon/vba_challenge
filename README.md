@@ -7,11 +7,11 @@ In order to improve performence of code, rewrite this code.
 ### Results
 
 In original version, the script runs about 0.96 seconds to get resuls.
-![original runs time](../Resources/original_analysis.png)
+![original runs time](./Resources/original_analysis.png)
 
 In refactoring code, the script runs about 0.16 seconds to get resuls.
-![refactoring 2017](../Resources/VBA_Challenge_2017.png)
-![refactoring 2018](../Resources/VBA_Challenge_2018.png)
+![refactoring 2017](./Resources/VBA_Challenge_2017.png)
+![refactoring 2018](./Resources/VBA_Challenge_2018.png)
 
 ### Summary
 
